@@ -1,3 +1,3 @@
 # zulrahHelper
 
-![range](https://raw.githubusercontent.com/akalymon/zulrahHelper/master/zulrahhelper/mageRotation.png)
+![range](https://raw.githubusercontent.com/akalymon/zulrahHelper/master/zulrahhelper/src/zulrahhelper/mageRotation.png)
