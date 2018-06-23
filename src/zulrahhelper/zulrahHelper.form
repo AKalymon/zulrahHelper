@@ -193,7 +193,7 @@
             <Component class="javax.swing.JLabel" name="rangeRoto">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Andrew - Laptop\Pictures\Saved Pictures\GIMP\rangeRotation.png"/>
+                  <Image iconType="3" name="/zulrahhelper/rangeRotation.png"/>
                 </Property>
               </Properties>
               <Constraints>
@@ -205,7 +205,7 @@
             <Component class="javax.swing.JLabel" name="rangeTopRoto">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Andrew - Laptop\Pictures\Saved Pictures\GIMP\rangeTop.png"/>
+                  <Image iconType="3" name="/zulrahhelper/rangeTop.png"/>
                 </Property>
               </Properties>
               <Constraints>
@@ -217,7 +217,7 @@
             <Component class="javax.swing.JLabel" name="rangeSideRoto">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Andrew - Laptop\Pictures\Saved Pictures\GIMP\rangeSide.png"/>
+                  <Image iconType="3" name="/zulrahhelper/rangeSide.png"/>
                 </Property>
               </Properties>
               <Constraints>
@@ -229,7 +229,7 @@
             <Component class="javax.swing.JLabel" name="mageRoto">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Andrew - Laptop\Pictures\Saved Pictures\GIMP\mageRotation.png"/>
+                  <Image iconType="3" name="/zulrahhelper/mageRotation.png"/>
                 </Property>
               </Properties>
               <Constraints>

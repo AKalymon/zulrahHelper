@@ -109,16 +109,16 @@ public class zulrahHelper extends javax.swing.JFrame {
 
         jPanel1.setLayout(new java.awt.CardLayout());
 
-        rangeRoto.setIcon(new javax.swing.ImageIcon("C:\\Users\\Andrew - Laptop\\Pictures\\Saved Pictures\\GIMP\\rangeRotation.png")); // NOI18N
+        rangeRoto.setIcon(new javax.swing.ImageIcon(getClass().getResource("/zulrahhelper/rangeRotation.png"))); // NOI18N
         jPanel1.add(rangeRoto, "card3");
 
-        rangeTopRoto.setIcon(new javax.swing.ImageIcon("C:\\Users\\Andrew - Laptop\\Pictures\\Saved Pictures\\GIMP\\rangeTop.png")); // NOI18N
+        rangeTopRoto.setIcon(new javax.swing.ImageIcon(getClass().getResource("/zulrahhelper/rangeTop.png"))); // NOI18N
         jPanel1.add(rangeTopRoto, "card4");
 
-        rangeSideRoto.setIcon(new javax.swing.ImageIcon("C:\\Users\\Andrew - Laptop\\Pictures\\Saved Pictures\\GIMP\\rangeSide.png")); // NOI18N
+        rangeSideRoto.setIcon(new javax.swing.ImageIcon(getClass().getResource("/zulrahhelper/rangeSide.png"))); // NOI18N
         jPanel1.add(rangeSideRoto, "card5");
 
-        mageRoto.setIcon(new javax.swing.ImageIcon("C:\\Users\\Andrew - Laptop\\Pictures\\Saved Pictures\\GIMP\\mageRotation.png")); // NOI18N
+        mageRoto.setIcon(new javax.swing.ImageIcon(getClass().getResource("/zulrahhelper/mageRotation.png"))); // NOI18N
         jPanel1.add(mageRoto, "card2");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
