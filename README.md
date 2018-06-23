@@ -9,6 +9,8 @@
 
 **Range top & range side are determined on the 4th rotation**
 
-**mage and range phase are determined on the 2nd rotation**
+**Mage and range phase are determined on the 2nd rotation**
 
 <img src="https://imgur.com/2zK0Jg2.png" width="250">
+
+**The reset button simply clears the image from the application for the next kill**
