@@ -4,3 +4,4 @@
 ## The initial menu looks as it does below:
 
 ![menu](https://imgur.com/piarPb6.png | width=100)
+<img src="https://imgur.com/piarPb6.png" width="48">
