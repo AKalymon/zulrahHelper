@@ -22,8 +22,6 @@ public class zulrahHelper extends javax.swing.JFrame {
      * Creates new form zulrahHelper
      */
     public zulrahHelper() {
-        
-        //test
         initComponents();
        // getContentPane().setBackground(Color.black);
         this.setLocationRelativeTo(null);
